@@ -1,0 +1,13 @@
+source,target,dependency,substitutability,speed_h,type
+CLD1,FT1,0.9,0.2,0.5,technological
+PAY,B3,0.9,0.1,0.5,operational
+PAY,B2,0.9,0.1,0.5,operational
+PAY,B1,0.9,0.1,0.5,operational
+PAY,B4,0.9,0.1,0.5,operational
+PAY,B5,0.8,0.1,0.5,operational
+CLD1,B1,0.8,0.2,1.0,technological
+CLD1,FT2,0.8,0.3,0.5,technological
+PAY,FT1,0.8,0.2,0.5,operational
+PAY,B6,0.8,0.1,0.5,operational
+CLD1,B2,0.7,0.3,1.0,technological
+SET,B1,0.7,0.2,2.0,operational

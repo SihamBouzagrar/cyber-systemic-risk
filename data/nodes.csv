@@ -1,0 +1,17 @@
+id,name,type,maturity,exposure_pct,rto_h
+B1,Banque Systémique,bank,4,30,8
+B2,Banque Nationale,bank,3,20,12
+B3,Banque Régionale A,bank,3,15,12
+B4,Banque Régionale B,bank,2,12,24
+B5,Banque Digitale,bank,3,10,6
+B6,Banque Mutualiste,bank,2,13,24
+PAY,Infra Paiement,fmi,4,0,2
+SET,Infra Règlement-Titres,fmi,4,0,4
+CLD1,Cloud Commun,cloud,3,0,6
+CLD2,Cloud Secondaire,cloud,3,0,8
+IT1,Prestataire Core Banking,it,2,0,12
+FT1,Fintech Paiement,fintech,2,0,12
+FT2,Fintech Crédit,fintech,2,0,24
+INS1,Assureur,insurer,3,0,24
+TEL1,Télécom A,telecom,3,0,4
+TEL2,Télécom B,telecom,2,0,6

@@ -1,0 +1,4 @@
+,Banques sous seuil CET1 (espérance),Banques sous seuil LCR (espérance),Banques sous au moins un seuil (espérance),Banques à franchissement conditionnel
+T1195 – Compromission Cloud Commun,0.23,0.0,0.23,"B4, B6"
+T1498 – Déni de service Infra Paiement,1.29,0.0,1.29,"B4, B6"
+T1486 – Rançongiciel Banque Systémique,0.12,0.0,0.12,"B4, B6"
