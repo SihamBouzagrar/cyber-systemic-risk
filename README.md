@@ -1,6 +1,6 @@
-# Cyber-stress test d'un système financier fictif
+# Cyber-stress test d'un système financier
 
-Ce projet simule la propagation d'une cyberattaque dans un système financier **fictif** de 16 acteurs (banques, infrastructures de marché, prestataires cloud/IT, fintechs, assureur, télécoms), puis mesure l'impact sur les ratios prudentiels des banques.
+Ce projet simule la propagation d'une cyberattaque dans un système financier  de 16 acteurs (banques, infrastructures de marché, prestataires cloud/IT, fintechs, assureur, télécoms), puis mesure l'impact sur les ratios prudentiels des banques.
 
 Il reproduit en un seul notebook une chaîne d'analyse complète : **cartographie → structure → propagation → impact financier → sensibilité et recommandations**.
 
@@ -127,7 +127,7 @@ Les données (nœuds, liens, bilans) et la table de correspondance durée → im
 | `nodes.csv`, `links.csv` | Nœuds et liens du système |
 | `structure_metrics.csv`, `spof.csv` | Métriques de structure, liens critiques |
 | `contagion_<scénario>.csv` | Taux de contagion et délai moyen par nœud |
-| `banks_balance.csv` | Bilans fictifs des banques |
+| `banks_balance.csv` | Bilans des banques |
 | `impact_<scénario>.csv`, `impact_all_scenarios.csv`, `impact_synthese.csv` | Impact CET1 / LCR |
 | `sensibilite_substituabilite.csv`, `sensibilite_maturite.csv`, `effet_mesures.csv` | Sensibilité et mesures |
 
@@ -156,7 +156,7 @@ Les données (nœuds, liens, bilans) et la table de correspondance durée → im
 ---
 
 **Réalisées par Bouzagrar Siham et Khawla Kadiri**  
-dans le cadre du projet *Cyber-stress test d’un système financier fictif* – Novembre 2026.
+dans le cadre du projet *Cyber-stress test d’un système financier * – Novembre 2026.
 
 ## Références
 
